@@ -1,0 +1,41 @@
+<item name="guide_cooking_3" class="Item" category="any">
+
+	<params>
+		<param name="selectable" value="0"/>
+		<param name="mass" value="0.1"/>
+		<param name="display_name" value="@guide_cooking_4"/>
+		<param name="description" value="@guide_cooking_4Description"/>
+		<param name="vendor_cost" value="10"/>
+	</params>
+
+	<geometry>
+		<thirdperson name="Objects/props/crafting_guides/cook_book_01.cgf"/>
+	</geometry>
+
+	<usable>
+		<param name="action" value="guide"/>
+		<param name="param" value="34"/>
+		<param name="soundUsed" value="Play_book_page_turn"/>
+	</usable>
+
+	<storage>
+		<locations>
+			<location category="any"/>
+		</locations>
+	</storage>
+
+	<steam>
+		<param name="tags" value="Category:Guide"/>
+		<param name="icon_url" value="http://miscreatedgame.com/shots/item_images/guide_cooking_3_200.png?crc=2E9B03E9"/>
+		<param name="store_hidden" value="0"/>
+		<param name="amcoins" value="1"/>
+		<param name="tradable" value="1"/>
+		<param name="name_color" value="1EFF00"/>
+		<param name="itemdefid" value="120027"/>
+		<param name="marketable" value="1"/>
+		<param name="store_tags" value="Category:Guide"/>
+		<param name="background_color" value="2A2A2A"/>
+		<param name="hidden" value="0"/>
+		<param name="icon_url_large" value="http://miscreatedgame.com/shots/item_images/guide_cooking_3_2048.png?crc=2E9B03E9"/>
+	</steam>
+</item>
