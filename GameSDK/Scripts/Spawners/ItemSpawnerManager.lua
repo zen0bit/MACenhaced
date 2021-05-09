@@ -3088,7 +3088,7 @@ If fred_islands does not exist, then it will use fred_default instead. This allo
 				{ class = "RavioliCan", percent = 0.5 },
 				{ class = "SoupCan", percent = 0.5 },
 				{ class = "TunaCan", percent = 0.5 },
-				{ class = "guide_cooking_4", percent = 3 },
+				{ class = "guide_baking", percent = 3 },
 				--{ class = "Champagne", percent = 3 }, -- Valentine's
 				--{ class = "heart_balloon", percent = 3 }, -- Valentine's
 				--{ category = "RandomEggs", percent = 0.5 },-- disabled until easter event
@@ -5205,7 +5205,7 @@ If fred_islands does not exist, then it will use fred_default instead. This allo
 				{ class = "guide_cooking_1", percent = 100 },
 				{ class = "guide_cooking_2", percent = 100 },
 				{ class = "guide_cooking_3", percent = 100 },
-				{ class = "guide_cooking_4", percent = 100 },
+				{ class = "guide_baking", percent = 100 },
 				{ class = "PeanutButter", percent = 100 },
 				{ class = "Jelly", percent = 100 },
 				{ class = "CoffeeBag", percent = 100 },

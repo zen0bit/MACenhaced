@@ -1,10 +1,10 @@
-<item name="guide_cooking_3" class="Item" category="any">
+<item name="guide_baking" class="Item" category="any">
 
 	<params>
 		<param name="selectable" value="0"/>
 		<param name="mass" value="0.1"/>
-		<param name="display_name" value="@guide_cooking_4"/>
-		<param name="description" value="@guide_cooking_4Description"/>
+		<param name="display_name" value="@guide_baking"/>
+		<param name="description" value="Teach you baking."/>
 		<param name="vendor_cost" value="10"/>
 	</params>
 
