@@ -1,0 +1,27 @@
+<item name="sleeping_bag_rolled" class="Placeable" category="any">
+
+	<params>
+		<param name="selectable" value="0"/>
+		<param name="mass" value="0.8"/>
+		<param name="healthMax" value="75"/>
+		<param name="display_name" value="Sleeping Bag"/>
+		<param name="description" value="A warm sleeping bag. Placing this will let you save a location to respawn."/>
+		<param name="vendor_cost" value="6"/>
+	</params>
+
+	<placeable>
+		<param name="placed_class" value="sleeping_bag"/>
+		<param name="placed_sound" value="Play_backpack_open"/>
+	</placeable>
+
+	<geometry>
+		<thirdperson name="objects/tents/packed_tent_civilian/packed_tent_civilian_med.cgf" material="objects/tents/packed_tent_civilian/packed_tent_civilian_brown.mtl"/>
+	</geometry>
+
+	<storage>
+		<locations>
+			<location category="any"/>
+		</locations>
+	</storage>
+
+</item>

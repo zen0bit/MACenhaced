@@ -1,0 +1,62 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy_mat" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_fabric" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="metalGasCan_mat" MtlFlags="524416" Shader="Illum" GenMask="60400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.42869052,0.39157251,0.39157251" Specular="0.19461785,0.18782079,0.051269464" Opacity="1" Shininess="167" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="objects/props/campground/campaccessories_pbr_diff.tif"/>
+    <Texture Map="Bumpmap" File="objects/props/campground/campaccessories_pbr_ddna.tif"/>
+    <Texture Map="Specular" File="objects/props/campground/campaccessories_pbr_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="plasticCooler_mat" MtlFlags="524416" Shader="Illum" GenMask="60400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_plastic" MatTemplate="" Diffuse="0.4793202,0.4793202,0.4793202" Specular="0.11953845,0.11953845,0.11953845" Opacity="1" Shininess="130" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="objects/props/campground/campaccessories_pbr_diff.tif"/>
+    <Texture Map="Bumpmap" File="objects/props/campground/campaccessories_pbr_ddna.tif"/>
+    <Texture Map="Specular" File="objects/props/campground/campaccessories_pbr_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="foldingChair_mat" MtlFlags="524416" Shader="Illum" GenMask="60400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_fabric" MatTemplate="" Diffuse="0.52099562,0.52099562,0.52099562" Specular="0.057805438,0.057805438,0.057805438" Opacity="1" Shininess="100" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="objects/props/campground/campaccessories_pbr_diff.tif"/>
+    <Texture Map="Bumpmap" File="objects/props/campground/campaccessories_pbr_ddna.tif"/>
+    <Texture Map="Specular" File="objects/props/campground/campaccessories_pbr_spec.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="campFire_mat" MtlFlags="524416" Shader="Illum" GenMask="2048404000" StringGenMask="%DISPLACEMENT_MAPPING%NORMAL_MAP%PARALLAX_OCCLUSION_MAPPING%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.35640016,0.35153264,0.33716366" Specular="0.029556841,0.029556841,0.029556841" Opacity="1" Shininess="129" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="objects/props/campground/campfire_dif.tif"/>
+    <Texture Map="Bumpmap" File="objects/props/campground/woodbench_pbr_ddna.tif"/>
+    <Texture Map="Heightmap" File="objects/props/campground/campfire_displ.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.021500001" SSSIndex="0" SelfShadowStrength="5" HeightBias="1" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="woodtable" MtlFlags="524416" Shader="Illum" GenMask="40400002" StringGenMask="%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/wood/floor_board_01_diff.tif">
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="2" TileV="2"/>
+    </Texture>
+    <Texture Map="Bumpmap" File="textures/wood/floor_board_01_ddna.tif"/>
+    <Texture Map="Custom" File="textures/vegetation/moss/moss_green_dark_diff.tif"/>
+    <Texture Map="[1] Custom" File="textures/vegetation/moss/moss_green_ddna.tif"/>
+    <Texture Map="Opacity" File="textures/generic/blend_masks/wood_fine_a_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1.5" EmittanceMapGamma="1" BlendLayer2Tiling="4" SSSIndex="0" BlendMaskTiling="1" BlendFactor="2" BlendLayer2Specular="0.02" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="metalTable_mat" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal_thick" MatTemplate="" Diffuse="0.5,0.5,0.5" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="sleepingBag" MtlFlags="524416" Shader="Illum" GenMask="40400000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_fabric" MatTemplate="" Diffuse="1,1,1" Specular="0.026241222,0.026241222,0.026241222" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="objects/props/campground/textures/sleepingbag_diff.tif"/>
+    <Texture Map="Bumpmap" File="objects/props/campground/textures/sleepingbag_ddna.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0" IndirectColor="0.25,0.25,0.25"/>
+</Material>

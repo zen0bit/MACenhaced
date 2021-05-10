@@ -1,0 +1,32 @@
+<item name="sleeping_bag" class="Tent" category="any">
+
+	<params>
+		<param name="selectable" value="0"/>
+		<param name="mass" value="1.5"/>
+		<param name="healthMax" value="50"/>
+		<param name="destroyWhenDegraded" value="1"/>
+		<param name="place_terrain_only" value="0"/>
+		<param name="display_name" value="Sleeping Bag"/>
+		<param name="view_dist_min" value="75"/> <!-- minimum 75m draw distance (relevance +5m) -->
+		<param name="no_icon" value="1"/>
+	</params>
+
+	<placeable>
+		<param name="packup_class" value="sleeping_bag_rolled"/>
+		<param name="packup_sound" value="Play_backpack_open"/>
+	</placeable>
+
+	<geometry>
+		<thirdperson name="Objects\SleepingBag\sleepingbag_player.cgf"/>
+	</geometry>
+
+	<storage>
+		<locations>
+			<location category="any"/>
+		</locations>
+		<types>
+			<type category="any" capacity="2"/>
+		</types>
+	</storage>
+
+</item>
