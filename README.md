@@ -1,7 +1,7 @@
 M.A.C enhaced
 Miscreated Advanced Crafting enhaced
 
-.Little tweaked crafting...
+. Little tweaked crafting...
 .All components in one subcategory.
 .Components removed from others subcategory.
 
