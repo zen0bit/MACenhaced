@@ -1737,91 +1737,6 @@
 								</items>
 							</type>
 
-							<type name="Shelter">
-								<items>
-									<item class="small_leanto" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="Tarp" />
-											<material class="Rope" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_1m_2m" time="3">
-										<materials>
-											<material class="StickPile" count="7" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_1m_1_3m" time="3">
-										<materials>
-											<material class="StickPile" count="7" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_2m_1_3m" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_2m_2m" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_4m_1_3m" time="3">
-										<materials>
-											<material class="StickPile" count="13" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_4m_2m" time="3">
-										<materials>
-											<material class="StickPile" count="13" />
-										</materials>
-									</item>
-									<item class="small_leanto_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" />
-											<material class="Rope" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_1m_2m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_1m_1_3m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_2m_1_3m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" count="2" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_2m_2m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" count="2" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_4m_1_3m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" count="3" />
-										</materials>
-									</item>
-									<item class="small_shelter_wall_4m_2m_camo" time="3">
-										<materials>
-											<material class="StickPile" count="10" />
-											<material class="CamoNetting" count="3" />
-										</materials>
-									</item>
-								</items>
-							</type>
-
 							<type name="Other">
 								<items>
 									<item class="wood_target" time="3">
@@ -1974,23 +1889,6 @@
 								</items>
 							</type>
 
-							<type name="Storage">
-								<items>
-									<item class="wood_crate" time="7">
-										<materials>
-											<material class="WoodPile" count="2" />
-											<material class="Lumber" count="5" />
-										</materials>
-									</item>
-									<item class="HiddenStash_Packed" time="8">
-										<materials>
-											<material class="CamoNetting" />
-											<material class="StickPile" count="4" />
-										</materials>
-									</item>
-								</items>
-							</type>
-
 							<type name="Platforms">
 								<items>
 									<item class="wood_walkway_1_3m_1m_1m" time="5">
@@ -2114,12 +2012,113 @@
 							</type>
 						</types>
 					</subcat>
+
+					<subcat name="Storage">
+						<items>
+							<item class="wood_crate" time="7">
+								<materials>
+									<material class="WoodPile" count="2" />
+									<material class="Lumber" count="5" />
+								</materials>
+							</item>
+							<item class="HiddenStash_Packed" time="8">
+								<materials>
+									<material class="CamoNetting" />
+									<material class="StickPile" count="4" />
+								</materials>
+							</item>
+						</items>
+					</subcat>
+
+					<subcat name="Shelter">
+						<items>
+							<item class="small_leanto" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="Tarp" />
+									<material class="Rope" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_1m_2m" time="3">
+								<materials>
+									<material class="StickPile" count="7" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_1m_1_3m" time="3">
+								<materials>
+									<material class="StickPile" count="7" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_2m_1_3m" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_2m_2m" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_4m_1_3m" time="3">
+								<materials>
+									<material class="StickPile" count="13" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_4m_2m" time="3">
+								<materials>
+									<material class="StickPile" count="13" />
+								</materials>
+							</item>
+							<item class="small_leanto_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" />
+									<material class="Rope" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_1m_2m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_1m_1_3m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_2m_1_3m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" count="2" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_2m_2m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" count="2" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_4m_1_3m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" count="3" />
+								</materials>
+							</item>
+							<item class="small_shelter_wall_4m_2m_camo" time="3">
+								<materials>
+									<material class="StickPile" count="10" />
+									<material class="CamoNetting" count="3" />
+								</materials>
+							</item>
+						</items>
+					</subcat>
 				</subcats>
 			</cat>
-
+			
 			<cat name="Weapons">
 				<subcats>
-
 					<subcat name="Ammo">
 						<items>
 							<item class="Pile_9mm" time="5" amount="10">
@@ -2280,6 +2279,11 @@
 									<material class="DuctTape" />
 								</materials>
 							</item>
+						</items>
+					</subcat>
+
+					<subcat name="Bolts">
+						<items>
 							<item class="Boltx5_0000" time="0.5" amount="5">
 								<materials>
 									<material class="ScrapMetal" count="5"/>
