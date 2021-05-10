@@ -1,0 +1,18 @@
+<Material MtlFlags="524544">
+ <SubMaterials>
+  <Material AlphaTest="0.25" Diffuse="0.30498734,0.30498734,0.30498734" Emissive="0,0,0" GenMask="181" LayerAct="1" MatTemplate="" MtlFlags="524418" Name="leaves" Opacity="1" Shader="Illum" Shininess="255" Specular="0.006512091,0.006512091,0.006512091" StringGenMask="%ALLOW_SILHOUETTE_POM%BUMP_MAP%DETAIL_MAPPING" SurfaceType="mat_vegetation">
+   <Textures>
+    <Texture File="objects/AAA_CRYTEK_ASSETS/natural/ground/ground_leaves/textures/ground_leaves_diff.tif" Map="Diffuse" />
+    <Texture File="objects/AAA_CRYTEK_ASSETS/natural/ground/ground_leaves/textures/ground_leaves_ddna.tif" Map="Bumpmap" />
+    <Texture File="objects/AAA_CRYTEK_ASSETS/natural/ground/ground_leaves/textures/plants_leaf_detail.tif" Map="Detail">
+     <TexMod TileU="6" TileV="6" />
+    </Texture>
+   </Textures>
+   <PublicParams DetailBumpScale="1" DetailDiffuseScale="1" DetailGlossScale="0.5" IndirectColor="0.25,0.25,0.25" SubsurfaceScatteringAmount="0" />
+  </Material>
+  <Material Diffuse="1,0,0" Emissive="0,0,0" GenMask="0" LayerAct="1" MatTemplate="" MtlFlags="525440" Name="proxy" Opacity="1" Shader="Nodraw" Shininess="10" Specular="0,0,0" StringGenMask="" SurfaceType="mat_vegetation">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams IndirectColor="0.25,0.25,0.25" SubsurfaceScatteringAmount="0" />
+</Material>

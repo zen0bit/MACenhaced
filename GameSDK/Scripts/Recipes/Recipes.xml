@@ -9,6 +9,11 @@
 
 					<subcat name="Components">
 						<items>
+							<item class="cloth_bag_large" time="3">
+								<materials>
+									<material class="Rags" count="2" />
+								</materials>
+							</item>
 							<item class="SheetMetal" time="0.5">
 								<materials>
 									<material class="IronIngot" count="2" />
@@ -464,11 +469,6 @@
 								<materials>
 									<material class="DeerPelt" />
 									<material class="Rope" />
-								</materials>
-							</item>
-							<item class="cloth_bag_large" time="3">
-								<materials>
-									<material class="Rags" count="2" />
 								</materials>
 							</item>
 						</items>
@@ -1980,6 +1980,12 @@
 										<materials>
 											<material class="WoodPile" count="2" />
 											<material class="Lumber" count="5" />
+										</materials>
+									</item>
+									<item class="HiddenStash_Packed" time="8">
+										<materials>
+											<material class="CamoNetting" />
+											<material class="StickPile" count="4" />
 										</materials>
 									</item>
 								</items>

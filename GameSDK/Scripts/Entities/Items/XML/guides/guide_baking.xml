@@ -3,7 +3,7 @@
 	<params>
 		<param name="selectable" value="0"/>
 		<param name="mass" value="0.1"/>
-		<param name="display_name" value="@guide_baking"/>
+		<param name="display_name" value="Baking Guide"/>
 		<param name="description" value="Teach you baking."/>
 		<param name="vendor_cost" value="10"/>
 	</params>

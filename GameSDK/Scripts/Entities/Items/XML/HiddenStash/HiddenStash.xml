@@ -1,0 +1,31 @@
+<item name="HiddenStash" class="Trap" category="any">
+
+	<params>
+		<param name="droppable" value="0"/>
+		<param name="selectable" value="0"/>
+		<param name="mass" value="0"/>
+		<param name="healthMax" value="300"/>
+		<param name="destroyWhenDegraded" value="1"/>
+		<param name="place_terrain_only" value="1"/>
+		<param name="display_name" value="Hidden Stash"/>
+		<param name="description" value="Dig a hole in the ground to hide some items"/>
+		<param name="view_dist_min" value="75"/> <!-- minimum 75m draw distance (relevance +5m) -->
+		<param name="no_icon" value="1"/>
+	</params>
+	
+	<placeable>
+		<param name="packup_class" value="HiddenStash_Packed"/>
+		<param name="packup_sound" value="Play_bush_movement_dry_large"/>
+	</placeable>
+
+	<geometry>
+		<thirdperson name="Objects/AAA_CRYTEK_ASSETS/natural/ground/ground_leaves/ground_leaves_pile_medium.cgf"/>
+	</geometry>
+
+	<storage>
+		<types>
+			<type category="any" capacity="5"/>
+		</types>
+	</storage>
+
+</item>
