@@ -2141,7 +2141,7 @@
 						</items>
 					</subcat>
 
-					<subcat name="Arrows and Bolts">
+					<subcat name="Arrows">
 						<items>
 							<item class="CraftedArrowx8_0000" time="0.5" amount="5">
 								<materials>
@@ -3497,7 +3497,7 @@
 						</items>
 					</subcat>
 
-					<subcat name="Arrows and Bolts">
+					<subcat name="Arrows">
 						<items>
 							<item class="CraftedExplosiveArrowx8_0000" time="1" amount="1">
 								<materials>
