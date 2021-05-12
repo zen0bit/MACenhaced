@@ -14,7 +14,7 @@
 
 	<usable>
 		<param name="action" value="guide"/>
-		<param name="param" value="30"/>
+		<param name="param" value="34"/>
 		<param name="soundUsed" value="Play_book_page_turn"/>
 	</usable>
 
