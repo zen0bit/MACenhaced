@@ -45,7 +45,7 @@ ________________________________________________
 
 
 
-![MAC enhaced](https://raw.githubusercontent.com/zen0bit/MACenhaced/main/screenshot/MACsmall.jpg)
+![MAC enhaced](https://raw.githubusercontent.com/zen0bit/MACenhaced/WIP/screenshot/MAC.jpg)
 ________________________________________________
 Medical Cannabis thanks to:
 https://github.com/Bealze/Gamer-Love
