@@ -1,5 +1,7 @@
 M.A.C enhaced
 -------------
+ModID: 2480835664
+
 Miscreated Advanced Crafting enhaced
 
 Little tweaked crafting...
@@ -45,6 +47,9 @@ https://github.com/Bealze/Gamer-Love
 
 Hidden Stash and Sleeping Bag thanks to:
 https://steamcommunity.com/id/PitiViers
+
+Steam Mod Link:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2480835664
 
 Feel free to contribute to project:
 https://github.com/zen0bit/M.A.C_enhaced
