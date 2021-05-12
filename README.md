@@ -57,6 +57,6 @@ Steam Mod Link:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2480835664
 
 Feel free to contribute to project:
-https://github.com/zen0bit/M.A.C_enhaced
+https://github.com/zen0bit/MACenhaced
 
 Tweak It! Share it! Enjoy it!
