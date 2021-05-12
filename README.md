@@ -1,4 +1,4 @@
-M.A.C enhaced
+MAC enhaced
 -------------
 ModID: 2480835664
 
@@ -41,6 +41,11 @@ Iron Ingot from 2 Scrap Metal
 Leather repair kit from 2 WolfSkin
 
 And Baking Guide
+________________________________________________
+
+
+
+![MAC enhaced](https://raw.githubusercontent.com/zen0bit/MACenhaced/main/screenshot/MACsmall.jpg)
 ________________________________________________
 Medical Cannabis thanks to:
 https://github.com/Bealze/Gamer-Love
