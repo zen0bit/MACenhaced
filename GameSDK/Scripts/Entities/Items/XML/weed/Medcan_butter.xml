@@ -5,7 +5,7 @@
 		<param name="mass" value="0.1"/>
 		<param name="stack_size" value="10" />
 		<param name="display_name" value="Cannabis Butter"/>
-		<param name="description" value="a stick of cannabis butter used for creative baking"/>
+		<param name="description" value="a stick of Cannabis Butter used for creative baking"/>
 	</params>
 
 	<geometry>

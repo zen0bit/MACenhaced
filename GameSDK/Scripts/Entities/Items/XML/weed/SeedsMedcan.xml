@@ -5,7 +5,7 @@
 		<param name="mass" value="0.1"/>
 		<param name="stack_size" value="5"/>
 		<param name="display_name" value="Medical Cannabis Seeds"/>
-		<param name="description" value="A packet of Cannabis seeds"/>
+		<param name="description" value="A packet of Cannabis Seeds"/>
 	</params>
 
 	<geometry>

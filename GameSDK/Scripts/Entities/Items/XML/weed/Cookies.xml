@@ -5,7 +5,7 @@
 		<param name="mass" value="1.0"/>
 		<param name="stack_size" value="5"/>		
 		<param name="display_name" value="Cookies"/>
-		<param name="description" value="sugar cookies"/>
+		<param name="description" value="sugar Cookies"/>
 	</params>
 
 	<geometry>

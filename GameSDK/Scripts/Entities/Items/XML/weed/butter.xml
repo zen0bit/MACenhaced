@@ -4,7 +4,7 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="0.1"/>
 		<param name="stack_size" value="64" />
-		<param name="display_name" value="butter"/>
+		<param name="display_name" value="Butter"/>
 		<param name="description" value="a stick of butter, used in baking"/>
 	</params>
 

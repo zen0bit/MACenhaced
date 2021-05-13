@@ -5,7 +5,7 @@
 		<param name="mass" value="0.2"/>
 		<param name="stack_size" value="10"/>		
 		<param name="display_name" value="Pie"/>
-		<param name="description" value="a berry pie"/>
+		<param name="description" value="a berry Pie"/>
 	</params>
 
 	<geometry>

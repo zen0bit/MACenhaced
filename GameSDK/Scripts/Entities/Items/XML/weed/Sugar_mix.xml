@@ -4,8 +4,8 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="0.1"/>
 		<param name="stack_size" value="64" />
-		<param name="display_name" value="Sugar_cookie_mix"/>
-		<param name="description" value="a box of sugar cookie mix used for baking"/>
+		<param name="display_name" value="Sugar Mix"/>
+		<param name="description" value="a box of Sugar cookie Mix used for baking"/>
 	</params>
 
 	<geometry>
