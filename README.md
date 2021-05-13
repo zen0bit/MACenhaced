@@ -8,8 +8,10 @@ Little tweaked crafting...
 ---------------------------------
 ---------------------------------
 Added recipes:
+_____________
 
 Hidden Stash
+
 
 Medical Heal Joint
 
@@ -19,6 +21,7 @@ Medical Antiradiation Joint
 
 ZipZap Papers
 
+
 Cannabis Vookie Dough
 
 Cannabis Butter
@@ -27,9 +30,11 @@ Pie
 
 Cookie Dough
 
+
 Iron Ingot from 2 Scrap Metal
 
 Leather repair kit from 2 WolfSkin
+
 
 And Baking Guide
 ________________________________________________
