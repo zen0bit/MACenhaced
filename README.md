@@ -10,13 +10,11 @@ Little tweaked crafting...
 Also added 2 recipes
 
 Iron Ingot from 2 Scrap Metal
+
 Leather repair kit from 2 WolfSkin
 
 And Baking Guide
 ________________________________________________
-
-
-
 ![MAC](https://raw.githubusercontent.com/zen0bit/MACenhaced/WIP/screenshot/MAC.jpg)
 ________________________________________________
 Medical Cannabis thanks to:
