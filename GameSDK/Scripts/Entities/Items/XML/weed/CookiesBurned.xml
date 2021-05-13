@@ -4,8 +4,8 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="1.0"/>
 		<param name="stack_size" value="5"/>		
-		<param name="display_name" value="CookiesBurned"/>
-		<param name="description" value="burned sugar cookies"/>
+		<param name="display_name" value="Cookies Burned"/>
+		<param name="description" value="Burned sugar Cookies"/>
 	</params>
 
 	<geometry>

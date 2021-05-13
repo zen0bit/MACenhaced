@@ -4,8 +4,8 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="1.0"/>
 		<param name="stack_size" value="10"/>		
-		<param name="display_name" value="cookie_dough"/>
-		<param name="description" value="raw cookie dough, used for baking"/>
+		<param name="display_name" value="Cookie Dough"/>
+		<param name="description" value="raw Cookie Dough, used for baking"/>
 	</params>
 
 	<geometry>

@@ -4,8 +4,8 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="1.0"/>
 		<param name="stack_size" value="64"/>		
-		<param name="display_name" value="raw_pie"/>
-		<param name="description" value="berry pie uncooked"/>
+		<param name="display_name" value="Raw Pie"/>
+		<param name="description" value="Raw berry Pie"/>
 	</params>
 
 	<geometry>

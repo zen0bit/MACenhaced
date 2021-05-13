@@ -4,8 +4,8 @@
 		<param name="selectable" value="0"/>
 		<param name="mass" value="1.0"/>
 		<param name="stack_size" value="64"/>		
-		<param name="display_name" value="Cannabis_Cookie_Dough"/>
-		<param name="description" value="raw Cannabis cookie dough, used for baking"/>
+		<param name="display_name" value="Cannabis Cookie Dough"/>
+		<param name="description" value="raw Cannabis Cookie Dough, used for baking"/>
 	</params>
 
 	<geometry>
