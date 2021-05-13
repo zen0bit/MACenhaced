@@ -1,6 +1,6 @@
 MAC
 -------------
-ModID: 2480835664
+ModID: 2479558100
 
 Miscreated Advanced Crafting
 
@@ -48,9 +48,9 @@ Hidden Stash thanks to:
 https://steamcommunity.com/id/PitiViers
 
 Steam Mod Link:
-https://steamcommunity.com/sharedfiles/filedetails/?id=2480835664
+https://steamcommunity.com/sharedfiles/filedetails/?id=2479558100
 
 Feel free to contribute to project:
-https://github.com/zen0bit/MAC
+https://github.com/zen0bit/MACenhaced/tree/MAC
 
 Tweak It! Share it! Enjoy it!
